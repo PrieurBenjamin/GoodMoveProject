@@ -487,7 +487,7 @@ for (var i = 0; i < length; i++) {
       {
           "preferFrontCamera" : false, // iOS and Android
           "showFlipCameraButton" : true, // iOS and Android
-          "prompt" : "Place a barcode inside the scan area", // supported on Android only
+          "prompt" : "Scanner le barecode dans la zone de scan", // supported on Android only
           "formats" : "UPC_E,UPC_A,EAN_8,EAN_13,CODE_128,CODE_39,CODE_93,CODABAR,ITF,RSS14,RSS_EXPANDED", // default: all but PDF_417 and RSS_EXPANDED
           //"orientation" : "portrait" // Android only (portrait|landscape), default unset so it rotates with the device
 		"disableSuccessBeep" : true
@@ -983,7 +983,8 @@ function show_login () {
     function init() {
         console.log("GOT AN ONLOAD!!!")
         
-        onBodyLoad();
+        //onBodyLoad();
+        clickScan();
         
         console.log("onBodyLoad() done");
         
