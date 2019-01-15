@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <title>ScanneLe, La solution verte pour tous !</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- SmartMenus core CSS (required) -->
+    <link href="../css/sm-core-css.css" rel="stylesheet" type="text/css" />
+
+    <!-- "sm-blue" menu theme (optional, you can use your own CSS, too) -->
+    <link href="../css/sm-blue/sm-blue.css" rel="stylesheet" type="text/css" />
+  </head>
+
+  <body>
+    <nav id="main-nav">
+      <ul id="main-menu" class="sm sm-blue">
+        <li><a href="http://www.smartmenus.org/">Home</a></li>
+        <li><a href="http://www.smartmenus.org/download/">Download</a></li>
+        <li><a><input type="text" placeholder="Search.." name="search"></a></li>
+      </ul>
+    </nav>
+
+    <!-- jQuery -->
+    <script type="text/javascript" src="../libs/jquery/jquery.js"></script>
+
+    <!-- SmartMenus jQuery plugin -->
+    <script type="text/javascript" src="../jquery.smartmenus.js"></script>
+
+    <!-- SmartMenus jQuery init -->
+    <script type="text/javascript">
+    	$(function() {
+    		$('#main-menu').smartmenus({
+    			subMenusSubOffsetX: 1,
+    			subMenusSubOffsetY: -8
+    		});
+    	});
+    </script>
+  </body>
+</html>
