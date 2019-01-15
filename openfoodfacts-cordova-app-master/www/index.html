@@ -1,110 +1,59 @@
-<!DOCTYPE HTML>
-<html>
+<!DOCTYPE html>
+<html lang="fr">
 <head>
+    <title>ScanneLe, La solution verte pour tous !</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <title>Open Food Facts</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+    <!-- SmartMenus core CSS (required) -->
+    <link href="../css/sm-core-css.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/regular.css" integrity="sha384-aubIA90W7NxJ+Ly4QHAqo1JBSwQ0jejV75iHhj59KRwVjLVHjuhS3LkDAoa/ltO4" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/solid.css" integrity="sha384-+0VIRx+yz1WBcCTXBkVQYIBVNEFH1eP6Zknm16roZCyeNg2maWEpk/l/KsyFKs7G" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/fontawesome.css" integrity="sha384-jLuaxTTBR42U2qJ/pm4JRouHkEDHkVqH0T1nyQXn1mZ7Snycpf6Rl25VBNthU4z0" crossorigin="anonymous">
 
-    <script src="cordova.js"></script>
-    <script type="text/javascript" src="base64.js"></script>
+    <!-- "sm-blue" menu theme (optional, you can use your own CSS, too) -->
+    <link href="../css/sm-blue/sm-blue.css" rel="stylesheet" type="text/css" />
 
-    <!--
-        <link href="ios_inspired/styles.css" rel="stylesheet" />
-    -->
-
-    <script type="text/javascript" charset="utf-8" src="tts.js"></script>
-
-    <script src="jquery-1.8.2.min.js"></script>
-    <script src="jquery.mobile-1.4.5/jquery.mobile-1.4.5.min.js"></script>
-    <link rel="stylesheet" href="jquery.mobile-1.4.5/jquery.mobile-1.4.5.min.css" />
-
-    <link rel="stylesheet" href="off.css" />
-
-    <script src="jquery.i18n.js"></script>
-    <script src="jquery.i18n.messages.js"></script>
-    <script src="jquery.i18n.fallbacks.js"></script>
-    <script src="jquery.i18n.parser.js"></script>
-    <script src="jquery.i18n.emitter.js"></script>
-    <script src="jquery.i18n.language.js"></script>
-
-    <!-- i18n -->
-    <link rel="localization" hreflang="en" href="i18n-en.json" type="application/l10n+json"/>
-    <link rel="localization" hreflang="es" href="i18n-es.json" type="application/l10n+json"/>
-    <link rel="localization" hreflang="fr" href="i18n-fr.json" type="application/l10n+json"/>
-    <link rel="localization" hreflang="it" href="i18n-it.json" type="application/l10n+json"/>
-    <link rel="localization" hreflang="de" href="i18n-de.json" type="application/l10n+json"/>
-    <link rel="localization" hreflang="ar" href="i18n-ar.json" type="application/l10n+json"/>
-    <link rel="localization" hreflang="he" href="i18n-he.json" type="application/l10n+json"/>
-    <link rel="localization" hreflang="pt" href="i18n-pt.json" type="application/l10n+json"/>
-    <link rel="localization" hreflang="zh" href="i18n-zh.json" type="application/l10n+json"/>
-    <link rel="localization" hreflang="ru" href="i18n-ru.json" type="application/l10n+json"/>
-    <link rel="localization" hreflang="ro" href="i18n-ro.json" type="application/l10n+json"/>
-    <link rel="localization" hreflang="gr" href="i18n-gr.json" type="application/l10n+json"/>
-    <link rel="localization" hreflang="cs" href="i18n-cs.json" type="application/l10n+json"/>
-    <link rel="localization" hreflang="fi" href="i18n-fi.json" type="application/l10n+json"/>
-    <link rel="localization" hreflang="tr" href="i18n-tr.json" type="application/l10n+json"/>
-    <link rel="localization" hreflang="ja" href="i18n-ja.json" type="application/l10n+json"/>
-    <link rel="localization" hreflang="lv" href="i18n-lv.json" type="application/l10n+json"/>
-    <link rel="localization" hreflang="sv" href="i18n-sv.json" type="application/l10n+json"/>
-    <link rel="localization" hreflang="sk" href="i18n-sk.json" type="application/l10n+json"/>
-    <link rel="localization" hreflang="sl" href="i18n-sl.json" type="application/l10n+json"/>
-    <link rel="localization" hreflang="pl" href="i18n-pl.json" type="application/l10n+json"/>
-    <link rel="localization" hreflang="pt_BR" href="i18n-pt_BR.json" type="application/l10n+json"/>
-    <link rel="localization" hreflang="no" href="i18n-no.json" type="application/l10n+json"/>
-    <link rel="localization" hreflang="nl" href="i18n-nl.json" type="application/l10n+json"/>
-    <link rel="localization" hreflang="lv" href="i18n-lv.json" type="application/l10n+json"/>
-    <link rel="localization" hreflang="ko" href="i18n-ko.json" type="application/l10n+json"/>
-    <link rel="localization" hreflang="hu" href="i18n-hu.json" type="application/l10n+json"/>
-    <link rel="localization" hreflang="da" href="i18n-da.json" type="application/l10n+json"/>
-
-    <script src="off.js"></script>
-
+    <style>
+        .button{
+            background-color: #C6944B;
+            border: none;
+            color: white;
+            padding: 0px 18px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 21px;
+            margin: 0px 4px;
+            cursor: pointer;
+        }
+    </style>
 </head>
-<body onload="init();" id="stage" class="theme">
 
-<!--<div data-role="page" id="page_home">
+<body>
+<nav id="main-nav" style="overflow: auto; position: relative;">
+    <ul id="main-menu" class="sm sm-blue">
+        <li><a href="http://www.smartmenus.org/"><i class="far fa-map fa-2x"></i></a></li>
+        <li><a href="http://www.smartmenus.org/download/"><i class="fas fa-barcode fa-2x"></i></a></li>
+        <li style="width: 40%;position: relative;"><a><input type="text" placeholder="Search.." name="search" size="25" style="width: 90%;font-size: 26px;">&nbsp;<input type="button" class="button" value="Input Button"></a></li>
+        <li style="float:right;position: relative;"><a href="http://www.smartmenus.org/download/"><i class="fas fa-cog fa-2x"></i></a></li>
+    </ul>
+</nav>
 
-</div>--><!-- /page[page_home] -->
+<!-- jQuery -->
+<script type="text/javascript" src="../libs/jquery/jquery.js"></script>
 
-<!--<div data-role="page" id="page_moodstocks_scan">
-    <div data-role="header" data-position="fixed" data-update-page-padding="false">
-        <a id="backbutton" href="#" data-rel="back" data-icon="arrow-l" class="i18n" data-i18n="msg_back">Back</a>
-        <h1 class="i18n" data-i18n="msg_scan">Scan</h1>
-    </div>
-    <div data-role="content">
-        <div id="overlayContainer">
-            <div id="overlay">
-                <span class="i18n" data-i18n="msg_scan_product_or_barcode">Scan the product or a barcode.</span>
-            </div>
-        </div>
-    </div>--><!-- /content -->
-<!--</div> --><!-- /page[page_moodstocks_scan] -->
+<!-- SmartMenus jQuery plugin -->
+<script type="text/javascript" src="../jquery.smartmenus.js"></script>
 
-<div data-role="dialog" id="page_moodstocks_overlay">
-    <div data-role="header">
-        <h1 id="moodstocksOverlayTitle"></h1>
-    </div>
-    <div data-role="content" data-inset="true">
-        <div id="result" class="block">
-            <div id="moodstocksOverlayContent"></div>
-            <a id="more_info_link" href="" data-role="button" data-icon="arrow-r" class="i18n" data-i18n="msg_more_info"/>More info</a>
-        </div>
-    </div><!-- /content -->
-</div><!-- /dialog[page_moodstocks_overlay] -->
-
-<div data-role="page" id="page_product">
-    <div data-role="header" data-position="fixed" data-update-page-padding="false">
-        <a id="backbutton" href="#" data-rel="back" data-icon="arrow-l" class="i18n" data-i18n="msg_back">Back</a>
-        <h1>Product</h1>
-    </div>
-    <div data-role="content">
-    </div><!-- /content -->
-</div><!-- /page[page_product] -->
-
-
-
-<script src="retina.js" type="text/javascript"></script>
-
+<!-- SmartMenus jQuery init -->
+<script type="text/javascript">
+    $(function() {
+        $('#main-menu').smartmenus({
+            subMenusSubOffsetX: 1,
+            subMenusSubOffsetY: -8
+        });
+    });
+</script>
 </body>
 </html>
