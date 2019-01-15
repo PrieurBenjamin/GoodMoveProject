@@ -293,8 +293,6 @@ var uploads_in_progress = 0;
                 scanButton = document.getElementById("scanButton");
             }
 
-
-
             // When scanner is dismissed, display the menu and hide the overlay
             function scannerOff() {
                 overlayContainer.style.display = "none";
@@ -983,8 +981,9 @@ function show_login () {
     function init() {
         console.log("GOT AN ONLOAD!!!")
         
-        //onBodyLoad();
-        clickScan();
+        onBodyLoad();
+
+        //clickScan();
         
         console.log("onBodyLoad() done");
         
