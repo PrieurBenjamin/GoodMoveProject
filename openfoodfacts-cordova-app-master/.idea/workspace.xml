@@ -2,225 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="972c57a6-1406-4daf-bd27-c0ff13f3ed47" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.bin/create" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/create" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-android/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-android/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-camera/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-camera/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/.appveyor.yml" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/.appveyor.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/.eslintrc.yml" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/.eslintrc.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/.github/PULL_REQUEST_TEMPLATE.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/.github/PULL_REQUEST_TEMPLATE.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/.jshintrc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/.jshintrc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/.npmignore" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/.npmignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/.ratignore" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/.ratignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/.travis.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/CONTRIBUTING.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/CONTRIBUTING.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/NOTICE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/NOTICE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/RELEASENOTES.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/RELEASENOTES.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/doc/de/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/doc/de/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/doc/de/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/doc/de/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/doc/de/plugins.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/doc/de/plugins.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/doc/es/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/doc/es/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/doc/es/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/doc/es/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/doc/es/plugins.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/doc/es/plugins.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/doc/fr/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/doc/fr/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/doc/fr/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/doc/fr/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/doc/fr/plugins.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/doc/fr/plugins.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/doc/it/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/doc/it/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/doc/it/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/doc/it/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/doc/it/plugins.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/doc/it/plugins.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/doc/ja/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/doc/ja/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/doc/ja/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/doc/ja/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/doc/ja/plugins.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/doc/ja/plugins.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/doc/ko/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/doc/ko/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/doc/ko/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/doc/ko/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/doc/ko/plugins.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/doc/ko/plugins.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/doc/pl/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/doc/pl/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/doc/pl/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/doc/pl/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/doc/pl/plugins.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/doc/pl/plugins.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/doc/plugins.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/doc/plugins.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/doc/ru/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/doc/ru/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/doc/ru/plugins.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/doc/ru/plugins.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/doc/zh/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/doc/zh/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/doc/zh/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/doc/zh/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/doc/zh/plugins.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/doc/zh/plugins.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/plugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/src/android/AssetFilesystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/src/android/AssetFilesystem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/src/android/ContentFilesystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/src/android/ContentFilesystem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/src/android/DirectoryManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/src/android/DirectoryManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/src/android/EncodingException.java" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/src/android/EncodingException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/src/android/FileExistsException.java" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/src/android/FileExistsException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/src/android/FileUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/src/android/FileUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/src/android/Filesystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/src/android/Filesystem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/src/android/InvalidModificationException.java" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/src/android/InvalidModificationException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/src/android/LocalFilesystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/src/android/LocalFilesystem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/src/android/LocalFilesystemURL.java" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/src/android/LocalFilesystemURL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/src/android/NoModificationAllowedException.java" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/src/android/NoModificationAllowedException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/src/android/TypeMismatchException.java" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/src/android/TypeMismatchException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/src/android/build-extras.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/src/android/build-extras.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/src/browser/FileProxy.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/src/browser/FileProxy.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/src/ios/CDVAssetLibraryFilesystem.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/src/ios/CDVAssetLibraryFilesystem.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/src/ios/CDVAssetLibraryFilesystem.m" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/src/ios/CDVAssetLibraryFilesystem.m" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/src/ios/CDVFile.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/src/ios/CDVFile.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/src/ios/CDVFile.m" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/src/ios/CDVFile.m" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/src/ios/CDVLocalFilesystem.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/src/ios/CDVLocalFilesystem.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/src/ios/CDVLocalFilesystem.m" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/src/ios/CDVLocalFilesystem.m" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/src/osx/CDVFile.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/src/osx/CDVFile.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/src/osx/CDVFile.m" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/src/osx/CDVFile.m" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/src/osx/CDVLocalFilesystem.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/src/osx/CDVLocalFilesystem.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/src/osx/CDVLocalFilesystem.m" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/src/osx/CDVLocalFilesystem.m" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/src/windows/FileProxy.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/src/windows/FileProxy.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/tests/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/tests/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/tests/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/tests/plugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/tests/src/android/TestContentProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/tests/src/android/TestContentProvider.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/tests/tests.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/tests/tests.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/types/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/types/index.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/www/DirectoryEntry.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/www/DirectoryEntry.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/www/DirectoryReader.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/www/DirectoryReader.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/www/Entry.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/www/Entry.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/www/File.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/www/File.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/www/FileEntry.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/www/FileEntry.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/www/FileError.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/www/FileError.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/www/FileReader.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/www/FileReader.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/www/FileSystem.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/www/FileSystem.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/www/FileUploadOptions.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/www/FileUploadOptions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/www/FileUploadResult.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/www/FileUploadResult.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/www/FileWriter.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/www/FileWriter.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/www/Flags.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/www/Flags.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/www/LocalFileSystem.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/www/LocalFileSystem.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/www/Metadata.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/www/Metadata.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/www/ProgressEvent.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/www/ProgressEvent.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/www/android/FileSystem.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/www/android/FileSystem.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/www/browser/FileSystem.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/www/browser/FileSystem.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/www/browser/Preparing.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/www/browser/Preparing.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/www/fileSystemPaths.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/www/fileSystemPaths.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/www/fileSystems-roots.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/www/fileSystems-roots.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/www/fileSystems.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/www/fileSystems.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/www/ios/FileSystem.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/www/ios/FileSystem.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/www/osx/FileSystem.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/www/osx/FileSystem.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/www/requestFileSystem.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/www/requestFileSystem.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-file/www/resolveLocalFileSystemURI.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-file/www/resolveLocalFileSystemURI.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/.appveyor.yml" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/.appveyor.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/.github/PULL_REQUEST_TEMPLATE.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/.github/PULL_REQUEST_TEMPLATE.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/.jshintrc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/.jshintrc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/.npmignore" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/.npmignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/.travis.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/CONTRIBUTING.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/CONTRIBUTING.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/NOTICE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/NOTICE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/RELEASENOTES.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/RELEASENOTES.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/doc/de/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/doc/de/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/doc/de/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/doc/de/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/doc/es/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/doc/es/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/doc/es/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/doc/es/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/doc/fr/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/doc/fr/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/doc/fr/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/doc/fr/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/doc/it/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/doc/it/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/doc/it/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/doc/it/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/doc/ja/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/doc/ja/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/doc/ja/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/doc/ja/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/doc/ko/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/doc/ko/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/doc/ko/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/doc/ko/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/doc/pl/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/doc/pl/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/doc/pl/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/doc/pl/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/doc/ru/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/doc/ru/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/doc/zh/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/doc/zh/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/doc/zh/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/doc/zh/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/plugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/src/android/StatusBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/src/android/StatusBar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/src/browser/StatusBarProxy.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/src/browser/StatusBarProxy.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/src/ios/CDVStatusBar.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/src/ios/CDVStatusBar.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/src/ios/CDVStatusBar.m" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/src/ios/CDVStatusBar.m" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/src/windows/StatusBarProxy.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/src/windows/StatusBarProxy.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/src/wp/StatusBar.cs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/src/wp/StatusBar.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/tests/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/tests/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/tests/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/tests/plugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/tests/tests.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/tests/tests.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/types/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/types/index.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/www/statusbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-statusbar/www/statusbar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-tts/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-tts/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-tts/src/ios/CDVTTS.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-tts/src/ios/CDVTTS.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-tts/src/ios/CDVTTS.m" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-tts/src/ios/CDVTTS.m" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-whitelist/.github/PULL_REQUEST_TEMPLATE.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-whitelist/.github/PULL_REQUEST_TEMPLATE.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-whitelist/CONTRIBUTING.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-whitelist/CONTRIBUTING.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-whitelist/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-whitelist/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-whitelist/NOTICE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-whitelist/NOTICE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-whitelist/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-whitelist/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-whitelist/RELEASENOTES.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-whitelist/RELEASENOTES.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-whitelist/doc/de/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-whitelist/doc/de/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-whitelist/doc/es/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-whitelist/doc/es/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-whitelist/doc/fr/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-whitelist/doc/fr/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-whitelist/doc/it/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-whitelist/doc/it/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-whitelist/doc/ja/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-whitelist/doc/ja/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-whitelist/doc/ko/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-whitelist/doc/ko/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-whitelist/doc/pl/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-whitelist/doc/pl/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-whitelist/doc/zh/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-whitelist/doc/zh/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-whitelist/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-whitelist/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-whitelist/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-whitelist/plugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cordova-plugin-whitelist/src/android/WhitelistPlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cordova-plugin-whitelist/src/android/WhitelistPlugin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/.github/CONTRIBUTING.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/.github/CONTRIBUTING.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/.github/ISSUE_TEMPLATE.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/.github/ISSUE_TEMPLATE.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/.travis.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/LICENSE.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/hooks/windows/check-arch.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/hooks/windows/check-arch.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/plugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/spec/helper/cordova.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/spec/helper/cordova.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/spec/index.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/spec/index.spec.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/android/barcodescanner.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/android/barcodescanner.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/blackberry10/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/blackberry10/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/blackberry10/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/blackberry10/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/blackberry10/native/.cproject" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/blackberry10/native/.cproject" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/blackberry10/native/.settings/com.qnx.tools.ide.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/blackberry10/native/.settings/com.qnx.tools.ide.core.prefs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/blackberry10/native/public/json/autolink.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/blackberry10/native/public/json/autolink.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/blackberry10/native/public/json/config.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/blackberry10/native/public/json/config.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/blackberry10/native/public/json/features.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/blackberry10/native/public/json/features.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/blackberry10/native/public/json/forwards.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/blackberry10/native/public/json/forwards.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/blackberry10/native/public/json/json.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/blackberry10/native/public/json/json.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/blackberry10/native/public/json/reader.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/blackberry10/native/public/json/reader.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/blackberry10/native/public/json/value.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/blackberry10/native/public/json/value.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/blackberry10/native/public/json/writer.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/blackberry10/native/public/json/writer.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/blackberry10/native/public/json_batchallocator.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/blackberry10/native/public/json_batchallocator.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/blackberry10/native/public/json_internalarray.inl" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/blackberry10/native/public/json_internalarray.inl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/blackberry10/native/public/json_internalmap.inl" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/blackberry10/native/public/json_internalmap.inl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/blackberry10/native/public/json_reader.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/blackberry10/native/public/json_reader.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/blackberry10/native/public/json_value.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/blackberry10/native/public/json_value.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/blackberry10/native/public/json_valueiterator.inl" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/blackberry10/native/public/json_valueiterator.inl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/blackberry10/native/public/json_writer.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/blackberry10/native/public/json_writer.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/blackberry10/native/public/plugin.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/blackberry10/native/public/plugin.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/blackberry10/native/public/plugin.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/blackberry10/native/public/plugin.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/blackberry10/native/public/tokenizer.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/blackberry10/native/public/tokenizer.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/blackberry10/native/public/tokenizer.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/blackberry10/native/public/tokenizer.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/blackberry10/native/src/Logger.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/blackberry10/native/src/Logger.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/blackberry10/native/src/Logger.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/blackberry10/native/src/Logger.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/blackberry10/native/src/barcodescanner_js.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/blackberry10/native/src/barcodescanner_js.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/blackberry10/native/src/barcodescanner_js.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/blackberry10/native/src/barcodescanner_js.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/blackberry10/native/src/barcodescanner_ndk.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/blackberry10/native/src/barcodescanner_ndk.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/blackberry10/native/src/barcodescanner_ndk.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/blackberry10/native/src/barcodescanner_ndk.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/blackberry10/qrcode.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/blackberry10/qrcode.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/browser/BarcodeScannerProxy.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/browser/BarcodeScannerProxy.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/ios/CDVBarcodeScanner.mm" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/ios/CDVBarcodeScanner.mm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/ios/scannerOverlay.xib" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/ios/scannerOverlay.xib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/windows/BarcodeScannerProxy.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/windows/BarcodeScannerProxy.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/windows/assets/plugin-barcodeScanner.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/windows/assets/plugin-barcodeScanner.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/windows/lib/Properties/AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/windows/lib/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/windows/lib/Reader.cs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/windows/lib/Reader.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/windows/lib/WinRTBarcodeReader.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/windows/lib/WinRTBarcodeReader.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/wp8/BarcodeScanner.cs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/wp8/BarcodeScanner.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/wp8/BarcodeScannerTask.cs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/wp8/BarcodeScannerTask.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/wp8/BarcodeScannerUI.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/wp8/BarcodeScannerUI.xaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/wp8/BarcodeScannerUI.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/src/wp8/BarcodeScannerUI.xaml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/www/barcodescanner.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-barcodescanner/www/barcodescanner.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -236,8 +19,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/www/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+            <state relative-caret-position="371">
+              <caret line="33" column="63" lean-forward="true" selection-start-line="33" selection-start-column="63" selection-end-line="33" selection-end-column="63" />
+              <folding>
+                <element signature="n#style#0;n#li#2;n#ul#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#a#0;n#li#2;n#ul#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#3;n#ul#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -264,8 +52,8 @@
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/.travis.yml" />
         <option value="$PROJECT_DIR$/config.xml" />
-        <option value="$PROJECT_DIR$/www/index.html" />
         <option value="$PROJECT_DIR$/www/off.js" />
+        <option value="$PROJECT_DIR$/www/index.html" />
       </list>
     </option>
   </component>
@@ -360,12 +148,12 @@
       <workItem from="1543768253096" duration="2335000" />
       <workItem from="1543822727975" duration="3807000" />
       <workItem from="1547543106175" duration="247000" />
-      <workItem from="1547543392662" duration="238000" />
+      <workItem from="1547543392662" duration="894000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21270000" />
+    <option name="totallyTimeSpent" value="21910000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
@@ -477,8 +265,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+        <state relative-caret-position="371">
+          <caret line="33" column="63" lean-forward="true" selection-start-line="33" selection-start-column="63" selection-end-line="33" selection-end-column="63" />
+          <folding>
+            <element signature="n#style#0;n#li#2;n#ul#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#a#0;n#li#2;n#ul#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#3;n#ul#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
